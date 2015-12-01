@@ -15,7 +15,7 @@ resources (you may use symbolic links):
 * [`candc`](http://svn.ask.it.usyd.edu.au/trac/candc/), the C&C tools
 * `CCGbank1.2`, the 1.2 release of CCGbank
 
-`candc` needs to be compiled, this can be done by running
+The C&C tools need to be compiled, this can be done by running
 
     make all bin/generate
 
