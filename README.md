@@ -42,6 +42,11 @@ Similarly for the final test data:
 
    produce out/wsj22.automultistagged
 
+Bug reports
+-----------
+
+Bug reports are very welcome, preferably as GitHub issues.
+
 Literature
 ----------
 
