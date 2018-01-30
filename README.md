@@ -36,11 +36,11 @@ cores, run:
 To produce the POS-tagged and supertagged development test data (using a model
 trained on the entire training data), run:
 
-   produce out/wsj00.automultistagged
+    produce out/wsj00.automultistagged
 
 Similarly for the final test data:
 
-   produce out/wsj22.automultistagged
+    produce out/wsj22.automultistagged
 
 Bug reports
 -----------
