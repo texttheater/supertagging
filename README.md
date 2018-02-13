@@ -12,7 +12,7 @@ Before you can use this software, make sure the external dependencies are in
 place: create the directory `ext` and make sure it contains the following two
 resources (you may use symbolic links):
 
-* [`candc`](http://svn.ask.it.usyd.edu.au/trac/candc/), the C&C tools
+* [`candc`](https://github.com/chrzyki/candc), the C&C tools
 * `CCGbank1.2`, the 1.2 release of CCGbank
 
 The C&C tools need to be compiled, this can be done by running
